@@ -1,0 +1,44 @@
+.section-one {
+	padding-top:1px;
+	width: 1600px;
+	height: 794px;
+	background-image: url('../images/hero.png');
+	background-repeat:no-repeat;
+	background-size:1600px 794px;
+}
+.section-one h1 {
+	margin: 0;
+	padding-top: 300px;
+	text-align: center;
+	color: #fff;
+	font-family: 'Amatica SC',cursive;
+	font-size: 40px;
+}
+.section-one .buttons {
+	 padding:0;
+	 margin:0;
+	 padding-top:60px;
+	 text-align: center;
+}
+.student-btn {
+	width: 270px;
+	height: 60px;
+  border : 1px solid #dad7d2;
+  border-radius: 4px;
+	background-color: rgba(255, 255, 255, 0);
+	color: #fff;
+	/*font-family: 'Amatica SC',cursive;*/
+ font-size: 24px;
+
+}
+.tutor-btn {
+	margin-left: 30px;
+	width: 270px;
+	height: 60px;
+  border : 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+	background-color: rgba(255, 255, 255, 0.2);
+	/*font-family: 'Amatica SC',cursive;*/
+	font-size: 24px;
+	color: #fff;
+}

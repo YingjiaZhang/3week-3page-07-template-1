@@ -1,0 +1,37 @@
+.section-two {
+	 padding-top:1px;
+	 width: 1600px;
+	 height: 580px;
+	 background: #fcf9f4;
+	 text-align: center;
+}
+.section-two h2 {
+	margin: 0;
+	padding: 0;
+	padding-top:150px;
+	color: #4d4e59;
+	font-family: 'Amatica SC',cursive;
+	font-size: 52px;
+}
+.section-two p {
+	margin: 0;
+	padding: 0;
+	padding-top: 32px;
+	color: #636471;
+	font-family: 'Open Sans',cursive;
+	font-size: 20px;
+}
+.section-two button {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 200px;
+	margin-top: 32px;
+	width: 270px;
+	height: 60px;
+	border : 1px solid  #ffcd62;
+	color: #636471;
+	font-family: 'Open Sans',cursive;
+	font-size: 20px;
+	border-radius: 4px;
+	background-color: #ffcd62;
+}
