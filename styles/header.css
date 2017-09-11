@@ -5,14 +5,14 @@
 	 background: #fcf9f4;
 	 display: inline-block;
 }
-.logo {
+.header img {
 	margin: 0 0 0 100px;
 	width: auto;
 	height: 100px;
 	display: inline-block;
 	vertical-align: middle;
 }
-.tabs {
+.header ul {
 	margin:0;
 	padding:0 0 0 42px;
 	line-height:100px;
@@ -21,7 +21,7 @@
 	border-right: 1px solid #eae7e2;
 	border-left: 1px solid #eae7e2;
 }
-.tabs li {
+.header ul li {
 	padding-right: 42px;
 	display: inline-block;
   list-style-type:none;
