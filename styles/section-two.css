@@ -1,9 +1,12 @@
 .section-two {
-	 padding-top:1px;
-	 width: 1600px;
-	 height: 580px;
-	 background: #fcf9f4;
-	 text-align: center;
+	margin:0;
+	padding: 0;
+	padding-top:1px;
+	width: 1600px;
+	height: 580px;
+	background: #fcf9f4;
+	text-align: center;
+	display: inline-block;
 }
 .section-two h2 {
 	margin: 0;

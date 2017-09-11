@@ -1,7 +1,16 @@
 .footer {
-	 margin: 0 auto;
-	 height: 100px;
-	 width: 1600px;
-	 background: #4d4e59;
-	 display: inline-block;
+	margin: 0 auto;
+	height: 100px;
+	width: 1600px;
+	background: #4d4e59;
+	display: inline-block;
+}
+.footer span {
+	margin: 0;
+	padding: 42px 0px;
+	font-size: 16px;
+	font-family: 'Open Sans',cursive;
+	color: #d4d2d0;
+	display: block;
+	text-align: center;
 }

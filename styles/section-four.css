@@ -6,3 +6,53 @@
 	background-color: #fcf9f4;
 	display: inline-block;
 }
+
+.section-four h2 {
+	margin: 0;
+	padding: 170px 0px 80px 0px;
+	color: #909094;
+	font-family: 'Amatica SC',cursive;
+	text-align: center;
+	font-size: 52px;
+}
+
+.section-four ul {
+	margin: 0;
+  padding: 0px 203px 0px 203px;
+  line-height:350px;
+}
+.section-four ul li {
+	margin: 0px 15px 0px 15px;
+  padding: 0;
+	width: 350px;
+	line-height: 350px;
+	display: inline-block;
+  list-style-type:none;
+	text-align: center;
+	font-family: 'Amatica SC',cursive;
+	font-size: 20px;
+	border-radius: 5px;
+	border: 1px solid #eae7e2;
+}
+.section-four ul li span {
+	line-height: 175px;
+	display: block;
+}
+
+.number {
+	font-size: 72px;
+	font-family: 'Amatica SC',cursive;
+}
+.text {
+	font-size: 16px;
+	font-family: 'Open Sans',cursive;
+}
+.hours {
+	color: #91d0b1;
+}
+.sessions {
+	color: #ffcd62;
+}
+.volunteer {
+	color: #80a8cc;
+}
